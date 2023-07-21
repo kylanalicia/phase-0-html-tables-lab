@@ -10,7 +10,7 @@ function App() {
             </div>
             <TransactionList />
         </div>
-    )
+    );
 }
 
 export default App;
